@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-26T15:56:36 CST" name="Default suite" finished-at="2022-02-26T15:56:36 CST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2022-02-26T15:56:36 CST" name="Default test" finished-at="2022-02-26T15:56:36 CST" duration-ms="54">
+      <class name="Testing">
+        <test-method signature="printtest()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="printtest" finished-at="2022-02-26T15:56:36 CST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printtest -->
+        <test-method signature="test1()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="test1" finished-at="2022-02-26T15:56:36 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="test2" finished-at="2022-02-26T15:56:36 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="test3" finished-at="2022-02-26T15:56:36 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="test4" finished-at="2022-02-26T15:56:36 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:Testing@44a7bfbc]" started-at="2022-02-26T15:56:36 CST" name="test5" finished-at="2022-02-26T15:56:36 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
